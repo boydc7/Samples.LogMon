@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DdLogMon", "DdLogMon.csproj", "{D4FBB2C1-745B-4EAA-8D0B-73D89146B38C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DdLogMon.UnitTests", "DdLogMon.UnitTests\DdLogMon.UnitTests.csproj", "{4EC603E1-1809-437B-9114-59318E026C5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4FBB2C1-745B-4EAA-8D0B-73D89146B38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FBB2C1-745B-4EAA-8D0B-73D89146B38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FBB2C1-745B-4EAA-8D0B-73D89146B38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FBB2C1-745B-4EAA-8D0B-73D89146B38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC603E1-1809-437B-9114-59318E026C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC603E1-1809-437B-9114-59318E026C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC603E1-1809-437B-9114-59318E026C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
